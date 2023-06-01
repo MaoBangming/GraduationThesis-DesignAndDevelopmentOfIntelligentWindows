@@ -1,2 +1,7 @@
-# GraduationThesis-DesignAndDevelopmentOfIntelligentWindows
-毕业论文-智能窗户的设计与开发
+# 毕业论文-智能窗户的设计与开发
+
+语言：python
+
+系统：树莓派
+
+功能：对智能窗户进行控制、监测、报警等操作
